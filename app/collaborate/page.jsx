@@ -172,7 +172,7 @@ export default function Collaborate() {
               <div key={index} className="bg-gradient-to-br from-purple-50 to-pink-50 p-8 rounded-2xl">
                 <div className="mb-6">
                   <h4 className="text-xl font-bold text-gray-900 mb-2">{testimonial.brand}</h4>
-                  <p className="text-gray-700 italic">&quot;{testimonial.quote}&quot;</p>
+                  <p className="text-gray-700 italic">"{testimonial.quote}"</p>
                 </div>
                 <div className="bg-white p-4 rounded-xl">
                   <div className="text-sm text-gray-600 mb-1">Result:</div>
