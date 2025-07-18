@@ -77,7 +77,7 @@ export default function Collaborate() {
       <section className="pt-32 pb-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Let's <span className="text-purple-600">Collaborate</span>
+            Let&apos;s <span className="text-purple-600">Collaborate</span>
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed mb-8">
             Partner with us to reach an engaged community of active women who value authenticity, 
@@ -216,7 +216,7 @@ export default function Collaborate() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Ready to Partner?</h2>
-            <p className="text-xl text-gray-600">Let's create something amazing together</p>
+            <p className="text-xl text-gray-600">Let&apos;s create something amazing together</p>
           </div>
           
           <form className="bg-gradient-to-br from-purple-50 to-pink-50 p-8 rounded-3xl">
@@ -283,7 +283,7 @@ export default function Collaborate() {
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl font-bold mb-6">Questions About Partnerships?</h2>
           <p className="text-xl mb-8 opacity-90">
-            We're here to help you find the perfect collaboration opportunity for your brand.
+            We&apos;re here to help you find the perfect collaboration opportunity for your brand.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact" className="bg-white text-purple-600 px-8 py-4 rounded-full text-lg font-semibold hover:shadow-lg hover:scale-105 transition-all duration-300 inline-block">

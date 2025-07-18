@@ -40,12 +40,12 @@ export default function Content() {
     },
     {
       title: "Sports News",
-      description: "Latest updates and inspiring stories from women's sports",
+      description: "Latest updates and inspiring stories from women&apos;s sports",
       icon: "🏆",
       color: "pink",
       posts: [
-        "Women's Marathon World Records",
-        "Rising Stars in Women's Soccer",
+        "Women&apos;s Marathon World Records",
+        "Rising Stars in Women&apos;s Soccer",
         "Olympic Training Insights",
         "Local Sports Heroes"
       ]
@@ -92,10 +92,10 @@ export default function Content() {
                   ⭐ Featured Story
                 </div>
                 <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                  From Postpartum to Personal Best: Sarah's Marathon Journey
+                  From Postpartum to Personal Best: Sarah&apos;s Marathon Journey
                 </h2>
                 <p className="text-xl opacity-90 mb-6">
-                  Follow Sarah's inspiring 18-month journey from new mom to marathon finisher, 
+                  Follow Sarah&apos;s inspiring 18-month journey from new mom to marathon finisher, 
                   including the challenges, victories, and everything in between.
                 </p>
                 <button className="bg-white text-purple-600 px-8 py-3 rounded-full font-semibold hover:shadow-lg transition-all duration-300">
@@ -117,7 +117,7 @@ export default function Content() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Explore Categories</h2>
-            <p className="text-xl text-gray-600">Find exactly what you're looking for</p>
+            <p className="text-xl text-gray-600">Find exactly what you&apos;re looking for</p>
           </div>
           
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
@@ -192,7 +192,7 @@ export default function Content() {
                 color: "purple"
               },
               {
-                title: "Women's World Cup Highlights",
+                title: "Women&apos;s World Cup Highlights",
                 category: "Sports News",
                 time: "4 min read",
                 color: "pink"

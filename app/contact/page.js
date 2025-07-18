@@ -27,8 +27,8 @@ export default function Contact() {
             Get in <span className="text-purple-600">Touch</span>
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed">
-            We'd love to hear from you! Whether you have questions, ideas, or just want to connect, 
-            we're here to help you on your fitness journey.
+            We&apos;d love to hear from you! Whether you have questions, ideas, or just want to connect, 
+            we&apos;re here to help you on your fitness journey.
           </p>
         </div>
       </section>
@@ -153,7 +153,7 @@ export default function Contact() {
               },
               {
                 question: "Do you offer personal training or coaching?",
-                answer: "While we don't offer individual training, we provide excellent resources through our Content Hub and connect you with certified trainers in our community."
+                answer: "While we don&apos;t offer individual training, we provide excellent resources through our Content Hub and connect you with certified trainers in our community."
               },
               {
                 question: "How often do you post new content?",
@@ -161,7 +161,7 @@ export default function Contact() {
               },
               {
                 question: "Is the community beginner-friendly?",
-                answer: "Yes! Our community welcomes women at all fitness levels. Whether you're just starting or training for competitions, you'll find support and resources here."
+                answer: "Yes! Our community welcomes women at all fitness levels. Whether you&apos;re just starting or training for competitions, you&apos;ll find support and resources here."
               },
               {
                 question: "How can I stay updated with new content?",
@@ -223,7 +223,7 @@ export default function Contact() {
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl font-bold mb-6">Ready to Join the Movement?</h2>
           <p className="text-xl mb-8 opacity-90">
-            Don't wait to start your journey. Our community is here to support you every step of the way.
+            Don&apos;t wait to start your journey. Our community is here to support you every step of the way.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/" className="bg-white text-purple-600 px-8 py-4 rounded-full text-lg font-semibold hover:shadow-lg hover:scale-105 transition-all duration-300 inline-block">

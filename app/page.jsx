@@ -31,7 +31,7 @@ export default function Home() {
                 in <span className="text-pink-500">Sports</span>
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed">
-                Join our community for wellness tips, fashion inspiration, and the latest in women's sports. 
+                Join our community for wellness tips, fashion inspiration, and the latest in women&apos;s sports. 
                 Building a movement where every woman feels empowered to pursue her athletic dreams.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center">
@@ -99,7 +99,7 @@ export default function Home() {
               </p>
               <p className="text-lg text-gray-700 mb-8 leading-relaxed">
                 From motherhood to marathon training, from finding the perfect athletic wear to nutrition tips, 
-                we're here to support women at every stage of their fitness journey.
+                we&apos;re here to support women at every stage of their fitness journey.
               </p>
               <Link href="/about" className="inline-flex items-center text-purple-600 font-semibold hover:text-purple-800 transition-colors">
                 Learn More About Us →

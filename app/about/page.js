@@ -45,8 +45,8 @@ export default function About() {
                 and everything in between.
               </p>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                We understand that being a sportswoman isn't just about athletic performance. 
-                It's about balancing motherhood with marathon training, finding the perfect 
+                We understand that being a sportswoman isn&apos;t just about athletic performance. 
+                It&apos;s about balancing motherhood with marathon training, finding the perfect 
                 workout gear that makes you feel confident, and discovering nutrition tips 
                 that actually work for your lifestyle.
               </p>
@@ -94,7 +94,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Empowerment</h3>
               <p className="text-gray-600">
-                Every woman has the strength to achieve her goals. We're here to remind you of that power.
+                Every woman has the strength to achieve her goals. We&apos;re here to remind you of that power.
               </p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg text-center">
@@ -103,7 +103,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Community</h3>
               <p className="text-gray-600">
-                Together we're stronger. Building connections and supporting each other through every journey.
+                Together we&apos;re stronger. Building connections and supporting each other through every journey.
               </p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg text-center">
@@ -161,19 +161,19 @@ export default function About() {
                 </div>
                 <div className="lg:col-span-2">
                   <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                    "I started this journey as a new mom trying to find my way back to fitness. 
-                    I realized there wasn't enough honest conversation about the real challenges 
-                    women face in sports and wellness."
+                    &quot;I started this journey as a new mom trying to find my way back to fitness. 
+                    I realized there wasn&apos;t enough honest conversation about the real challenges 
+                    women face in sports and wellness.&quot;
                   </p>
                   <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                    "What began as sharing my own struggles on Instagram became a movement of 
+                    &quot;What began as sharing my own struggles on Instagram became a movement of 
                     women supporting women. Today, Sportswomen is more than just a platform - 
-                    it's a family where every woman can find her tribe."
+                    it&apos;s a family where every woman can find her tribe.&quot;
                   </p>
                   <p className="text-lg text-gray-700 leading-relaxed">
-                    "My goal is simple: to make sure no woman feels alone in her fitness journey. 
-                    Whether you're training for your first 5K or your tenth marathon, 
-                    there's a place for you here."
+                    &quot;My goal is simple: to make sure no woman feels alone in her fitness journey. 
+                    Whether you&apos;re training for your first 5K or your tenth marathon, 
+                    there&apos;s a place for you here.&quot;
                   </p>
                 </div>
               </div>
@@ -187,7 +187,7 @@ export default function About() {
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl font-bold mb-6">Join Our Community</h2>
           <p className="text-xl mb-8 opacity-90">
-            Be part of a movement that's changing how women approach fitness and wellness.
+            Be part of a movement that&apos;s changing how women approach fitness and wellness.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact" className="bg-white text-purple-600 px-8 py-4 rounded-full text-lg font-semibold hover:shadow-lg hover:scale-105 transition-all duration-300 inline-block">
